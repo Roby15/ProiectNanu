@@ -1,0 +1,7 @@
+/Users/roby/Desktop/Azure/ProiectFront
+/Users/roby/Desktop/Azure/appsettings.Development.json
+/Users/roby/Desktop/Azure/appsettings.json
+/Users/roby/Desktop/Azure/ProiectFront.dll
+/Users/roby/Desktop/Azure/ProiectFront.deps.json
+/Users/roby/Desktop/Azure/ProiectFront.runtimeconfig.json
+/Users/roby/Desktop/Azure/ProiectFront.pdb

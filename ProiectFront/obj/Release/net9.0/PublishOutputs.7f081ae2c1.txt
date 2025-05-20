@@ -1,0 +1,7 @@
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/ProiectFront
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/appsettings.Development.json
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/appsettings.json
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/ProiectFront.dll
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/ProiectFront.deps.json
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/ProiectFront.runtimeconfig.json
+/var/folders/hb/6rdqsj5s2l38zygzp1gmzm2w0000gn/T/rider-publish8343595492681486435/ProiectFront.pdb
