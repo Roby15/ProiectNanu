@@ -1,0 +1,13 @@
+### GET request to example server
+GET http://172.20.10.2:5018/api/data
+
+###
+POST http://192.168.68.128:5018/api/data/led/on
+
+###
+POST http://192.168.68.128:5018/api/data/led/off
+
+###
+GET  http://192.168.68.128:5018/api/floods
+###
+DELETE http://192.168.68.128:5018/api/floods/569
