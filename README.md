@@ -46,7 +46,7 @@ This repository is organized using separate branches for each part of the system
 
 ### Prerequisites
 
-- ESP8266 or ESP01 microcontroller
+- ESP32 microcontroller
 - DHT11 sensor
 - Push button
 - LED + resistor
